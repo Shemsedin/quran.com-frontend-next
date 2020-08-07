@@ -11,6 +11,9 @@ yarn-error.log*
 # system files
 .DS_Store
 
+# editors files
+.idea
+
 # Runtime data
 pids
 *.pid
